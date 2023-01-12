@@ -22,11 +22,12 @@ $ cd NFT_MarketPlace_2.0
 $ npm install
 ```
 ### 3. Create env
+```
  ALCHEMY_API= "Your ALCHEMY_API"
  privateKey= "Your privateKey"
  REACT_APP_pinata_api_key = "your REACT_APP_pinata_api_key" 
  REACT_APP_pinata_secret_api_key = "your REACT_APP_pinata_secret_api_key"
-
+```
 ### 3. Boot up local development blockchain
 ```
 $ cd NFT_MarketPlace_2.0
