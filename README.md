@@ -41,9 +41,5 @@ $ npx hardhat node
 `$ npx hardhat test`
 
 ### 7. Launch Frontend
-`$ npm run start`
-
-License
-----
-MIT
+`$ npm start`
 
